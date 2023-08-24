@@ -1,0 +1,13 @@
+---------
+Space time complexity- amount of time/space taken by the algorithm to run as a function of the input size
+
+from lower time to higher time
+O(1)- finding largest element in the sorted array
+O(N)- printing elements in a array
+O(NlogN)- merge sort
+O(N^2) -  sorting
+O(N^3) - 
+O(m^n) (exponential) - finding subsets
+
+mergeSort(O(nlogn)) ->100(<1ms) 1000(3ms), 5000(8ms),10000(9ms), 50000(22ms)
+bubbleSort(O(N2)) ->100(<1ms) 1000(6ms), 5000(68ms),10000(273ms), 50000(7724ms)
